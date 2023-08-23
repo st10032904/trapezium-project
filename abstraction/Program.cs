@@ -37,7 +37,7 @@ namespace abstraction
             }
             else
             {
-                Console.WriteLine("Please enter either: triangle, circle, or trapezium");
+                Console.WriteLine("Please enter either: triangle, circle, or trapeziu");
             }
 
             Console.ReadKey();
